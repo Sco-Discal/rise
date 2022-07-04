@@ -72,7 +72,7 @@
 
         <!-- rise-common-service-facade -->
         <dependency>
-            <groupId>com.rise.facade</groupId>
+            <groupId>com.rise</groupId>
             <artifactId>rise-common-service-facade</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
